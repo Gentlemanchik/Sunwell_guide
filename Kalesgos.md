@@ -194,7 +194,7 @@
 
 > ***Замечание:** если сэвейдить босса (а он эвейдится), то он исчезнет и появится через секунд 20-30 на том же месте. Это можно использовать так: один чео садится на маунта, пулит босса и отводит его до эвейда. В это время весь рейд должен ничего не кастовать, баффать, есть, пить, а просто зайти на арену с боссом и расставиться. Когда босс сэвейдится, то будет ещё 20-30 с. поставить рейдеров по своим местам и ждать появления босса*
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0w-v8AThZUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0w-v8AThZUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Phase1](/img/Калесгос_расстановка.png)
 
