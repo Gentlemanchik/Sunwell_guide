@@ -1,2 +1,2 @@
 
-![Mfp](/img/Мар.png)
+![Mfp](/img/Map.png)
