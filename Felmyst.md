@@ -161,3 +161,7 @@
 Нужно убить босса за 10 мин. Потом будет [берсерк](https://ru.tbc.wowhead.com/spell=26662), под которым рейд не долго не проживёт.
 
 >***Замечание:** как и ночная погибель, пророк скверны не может умереть на воздушной фазе. Здоровье опустится до 1, но нужно выжить всю воздушную фазу, чтоб нанести последний удар.*
+
+<h2>Видео убийства с ПТРа</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=3r9SNFNzyY0&ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
