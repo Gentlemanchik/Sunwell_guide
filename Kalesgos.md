@@ -215,6 +215,14 @@
 
 > ***Замечание:** когда оба босса уйдут в астрал, то все игроки из духовного мира переместятся в обычный мир. Калесгос-дракон станет дружелюбным, демон тут же умрёт, а его останки с лутом перейдут в обычный мир.*
 
+Вот, например, трай Калесгоса, на котором никого не оказалось в верхнем мире. Результат - эвэйд босса. Зацените отчаянный крик протвара на 38-й секунде :D. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHL6rkgVNIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+А вот тут тоже эвейд, но по второй причине. Действительно, we. Did. The same. Shit! AGAIN! BOYS!!!:D
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=upYtfWkHCJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Распределение пачек ##
 
 Вообще, ключевой момент данного энкаунтера это грамотная ротация рейда между двумя мирами. Нужно с балансом отправлять
@@ -274,3 +282,5 @@
 Данный энкаунтер по длительности не такой длинный, как Иллидан или Совет Иллидари. Как раз как Гуртогг, если сыграться.
 И этот файт не совсем про гонку ДПСа, больше про выживаемость и чЁтенькое перескакивание рейдеров из одного мира в
 другой.
+
+ToDo нужно потом более хорошо расписать пачки.
