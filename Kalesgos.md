@@ -138,6 +138,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0w-v8AThZUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Примерная расстановка рейда:
+
 ![Phase1](/img/Калесгос_расстановка.png)
 
 Проходит некоторое время, и первая пачка идёт в портал. Начинается ротация пачек. Пока
