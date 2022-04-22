@@ -92,4 +92,4 @@
 
 Видео от лица протвара. На видео тактика с 2-я танками. 6 хилов: 3 шомена, 1 пал, 1 прист и 1 друдид. У него два прожимных тринькета ([Знак клана призрачной луны](https://ru.tbc.wowhead.com/item=32501) с Гуртогга и [Древний акирский артефакт](https://ru.tbc.wowhead.com/item=33830) с Зулджина), он прожимает их под [топот](https://ru.tbc.wowhead.com/spell=45185). Сверху полоски хп босса видны дебаффы на боссе. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0KYoC0LJHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_0KYoC0LJHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
