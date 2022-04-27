@@ -68,7 +68,7 @@
   </thead>
   <tr>
     <td> 
-      <img src="/Sunwell_guide/img/Тени.png" alt="шпиндели" width="300px" />
+      <img src="/Sunwell_guide/img/Тени.png" alt="шпиндели" width="300" />
     </td>
     <td>
       Никакого здоровья нет. <br />
@@ -81,17 +81,17 @@
         <em>Способности:</em>
       </strong>
       <ul>
-        <li><a href="https://ru.tbc.wowhead.com/spell=45271" class="icontinyl" data-wh-icon-added="true" style="padding-left: 18px !important; background: url("https://wow.zamimg.com/images/wow/icons/large/spell_shadow_ritualofsacrifice.jpg") left center no-repeat;">Тёмный удар</a>
+        <li><a href="https://ru.tbc.wowhead.com/spell=45271">Тёмный удар</a>
           <strong>(мгновенный каст)</strong> :
           наносит цели от 1530 до 2070 урона от
           <span style="color:DarkOrchid">тёмной</span> магии. Накладывает одноимённый дебафф, наносящий 450 урона от
           <span style="color:DarkOrchid">тьмы</span> каждые 2 с. и снижающий скорость передвижения на 10%. 
-          Время действия - 10 с. Стакается до 5 раз. Идёт как мили-атака проекции. Каждый тик накладывает <a href="https://ru.tbc.wowhead.com/spell=45347" class="icontinyl" data-wh-icon-added="true" style="padding-left: 18px !important; background: url("https://wow.zamimg.com/images/wow/icons/large/spell_shadow_sealofkings.jpg") left center no-repeat;">Тёмную метку</a>
+          Время действия - 10 с. Стакается до 5 раз. Идёт как мили-атака проекции. Каждый тик накладывает <a href="https://ru.tbc.wowhead.com/spell=45347">Тёмную метку</a>
         </li>
-        <li><a href="https://ru.tbc.wowhead.com/spell=45270" class="icontinyl" data-wh-icon-added="true" style="padding-left: 18px !important; background: url("https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowfury.jpg") left center no-repeat;">Неистовство Тьмы</a>
+        <li><a href="https://ru.tbc.wowhead.com/spell=45270">Неистовство Тьмы</a>
           <strong>(0.5 с.)</strong> :
           аое-атака, наносит всем игрокам в радиусе 10
-          ярдов от 1826 до 2174 урона от <span style="color:DarkOrchid">тёмной</span> магии и оглушает на 2 с. Накладывает <a href="https://ru.tbc.wowhead.com/spell=45347" class="icontinyl" data-wh-icon-added="true" style="padding-left: 18px !important; background: url("https://wow.zamimg.com/images/wow/icons/large/spell_shadow_sealofkings.jpg") left center no-repeat;">Тёмную метку</a>        
+          ярдов от 1826 до 2174 урона от <span style="color:DarkOrchid">тёмной</span> магии и оглушает на 2 с. Накладывает <a href="https://ru.tbc.wowhead.com/spell=45347">Тёмную метку</a>        
           Работает как прок от атаки.
         </li>
       </ul>
