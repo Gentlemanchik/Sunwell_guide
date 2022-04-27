@@ -67,7 +67,7 @@
     <tr> <th colspan="2">Тёмная проекция</th> </tr>
   </thead>
   <tr>
-    <td> 
+    <td style="width:300px;"> 
       <img src="/Sunwell_guide/img/Тени.png" alt="шпиндели" width="300" />
     </td>
     <td>
