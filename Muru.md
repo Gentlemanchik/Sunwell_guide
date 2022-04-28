@@ -182,4 +182,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi0PdK8AZUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Второе видео, с более "зерговой" стратой на первой фазе
+Второе видео, с более "зерговой" стратой на первой фазе. Конечно, это видео топового коллектива Fusion (да простит меня Вотлка, что я вставил их сюда), но они много, ОЧЕНЬ много повайпались на Мууру. 
+
+ 1. проблемы было две: хилы срывали агро с аддов-гуманоидов и хилы срывали агро с часового бездны. Под конец (только под конец) их заставили полететь респекаться и брать все талланты на минус агро.
+ 2. после убийства первого часового были поставлены четыре метки на детей бездны. Это для четырёх локов.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5Otf7vv72A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
