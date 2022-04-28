@@ -177,4 +177,4 @@
  5. т.к. у рейда получалось быстро сливать аддов, то милики могли в какие-то моменты побить босса. Даже если было окно всего лишь в 5 с. они всё равно бежали и ковыряли Мууру. Иногда даже тащили оставшегося гуманоидов под клив, если нет [мрака](https://ru.tbc.wowhead.com/spell=45996).
  6. На 6-й минуте видео можно посмотреть, как шаман шароёбится в [сингулярности](https://ru.tbc.wowhead.com/spell=46238) :D.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yi0PdK8AZUk&ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yi0PdK8AZUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
