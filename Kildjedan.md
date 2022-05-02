@@ -8,7 +8,7 @@
 
 \<Искуситель>
 
-Шестой, и последний босс в Плато Солнечного Колодца! 
+Шестой, и последний босс в Плато Солнечного Колодца! Я решил сделать так: разделить видео с ПТРа на каждую фазу (кроме первой, там нечего смотреть), и вставлю в соответствующие разделы. С моей точки зрения, так удобнее на данном боссе.
 
 ## Краткий обзор боя ##
 
@@ -46,7 +46,9 @@
 
 >***Замечание:** в отличии от пидо-рыбы, где тоже есть анимация появления, тут босс будет неактивен. У рейда есть примерно 10 с. добить импов и распредаться.*
 
-## Вторая фаза и схема расположения рейда на весь бой##
+
+
+## Вторая фаза и схема расположения рейда на весь бой ##
 
 Килджеден является кастером, полным. Его мили атаки наносят по 1500 урона по ГОЛОМУ, что вообще смешно. Поэтому он полагается только на свои магические способности. Кастует он постоянно.
 
@@ -86,6 +88,11 @@
 Во время боя в случайном месте будут спавнится защитные сферы. Они летают над землёй и обстреливают игроков очередью из [стрел тьмы](https://ru.tbc.wowhead.com/spell=45680). Ближайшим РДД следует убивать сферы как можно быстрее.
 
 Когда здоровье босса достигнет 85%, то начнётся первая переходка.
+
+Вот видео второй фазы. Ну, тут можно лишь посмотреть на расстановку. Тут выбрали тактику с одной мили-пачкой, что не возбраняется. В таком случае МТ обязан на переходках отвлекаться от босса на свои [Зловещее отражение](https://ru.tbc.wowhead.com/spell=45892) (об этом в разделе **Переходки**).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20Vr9oTeEkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Переходки ##
 
@@ -214,7 +221,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XoXPmOa86nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Пятая фаза ##
+## Пятая фаза и видео полного боя ##
 
 Кстати, данная переходка усложнена [армагеддон](https://ru.tbc.wowhead.com/spell=45915). Как я отмечал, это не каст босса а просто новая механика, которая просуществует от 4-й фазы до конца боя.
 
@@ -230,5 +237,8 @@
  1. Я всё ещё не понимаю, почему танк не сразу начинает бить тени. Кстати, в этот раз это тени жреца.
  2. Хоть и были проюзаны две драконьи сферы, но баффы от дыханий НЕ СТАКАЮТСЯ.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvgp3sbOvdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ну и напоследок оставлю видео полного боя с Килджеденом. Не того же рейда, а другого. На нём, кстати, на первой фазе аддов развели.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vv9yGRwp87o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
