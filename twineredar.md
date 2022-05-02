@@ -206,8 +206,6 @@
 Но далее я буду рассказывать тактику в случае танка-чернокнижника. Рейд сможет подогнать тактику под игру с протпалом,
 это сделать несложно.
 
-<h2 align = "center">Tactics</h2>
-
 ## Первая фаза ##
 
 *Крайне желательно надеть [ПвП тринькет](https://ru.tbc.wowhead.com/item=30349) Он сильно поможет на первой фазе!*
@@ -392,4 +390,6 @@
 
 ## Видео убийства с ПТРа ##
 
-todo
+Видео от лица милика. Чернокнижницу, кстати, тут тоже танкует протпал.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20Vr9oTeEkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
