@@ -256,10 +256,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvgp3sbOvdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ну и напоследок оставлю видео полного боя с Килджеденом. Не того же рейда, а другого. На нём, кстати, на первой фазе аддов развели.
+Ну и оставлю видео полного боя с Килджеденом. Не того же рейда, а другого. На нём, кстати, на первой фазе аддов развели.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vv9yGRwp87o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 И ещё добавлю видео от лица "драгонбоя" протвара. У него стандартный близовский интерфейс и он поместил макросы с PetActionbutton на вторую страницу действия (можно увидеть на 2:46 как он безуспешно пытается нажать _Реванш_ а потом меняет страницу на 2, на которой уже выведены макросы на скилы драконов).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hid6QDwS3n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hid6QDwS3ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
